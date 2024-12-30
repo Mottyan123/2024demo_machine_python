@@ -1,0 +1,13 @@
+#読み込み(dust_mainで固定すること！！！)
+path: ../datasets/dust_main
+train: C:/Users/hkazu/OneDrive/ドキュメント/ロボプロ/python/lobo_scan/datasets/dust_main/images/train
+val: C:/Users/hkazu/OneDrive/ドキュメント/ロボプロ/python/lobo_scan/datasets/dust_main/images/val
+
+#classes
+names:
+  0: redcap
+  1: bluecap
+  2: blackcap
+  3: whitecap
+  4: controller
+
